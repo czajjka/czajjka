@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🎓 Graduated Java at Software Development Academy in January 2024. 
+🔎 I am looking for a job as a junior engineer with the possibility of development and the chance to learn even more new things!
+📫 How to reach me: czajkowskag53@gmail.com
+
 <!--
 **czajjka/czajjka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
