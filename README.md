@@ -4,7 +4,7 @@
 
 🔎 I am looking for a job as a Junior Developer with the possibility of development and the chance to learn even more new things!
 
-📫 How to reach me: czajkowskag53@gmail.com
+📫 How to reach me: gabrysia.czajkowska@wp.pl
 
 <!--
 **czajjka/czajjka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
